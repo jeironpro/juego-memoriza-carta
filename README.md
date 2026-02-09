@@ -1,4 +1,4 @@
-# memoriza-carta
+# juego-memoriza-carta
 
 ## 📌 Descripción
 Este proyecto forma parte de mi portafolio personal.  
