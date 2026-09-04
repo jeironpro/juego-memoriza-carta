@@ -1,10 +1,7 @@
 # juego-memoriza-carta
 
-## 📌 Descripción
-Este proyecto forma parte de mi portafolio personal.  
-El objetivo es demostrar buenas prácticas de programación, organización y documentación en GitHub.  
-El proyecto se mejoró visualmente usando el modelo de IA Gemini 3 Flash en Antigravity
+Juego de memoria que consiste en voltear cartas con animales y encontrar todas las parejas iguales.
 
-## 📜 Licencia
+## Licencia
 Este proyecto está bajo la licencia **MIT**.  
 Consulta el archivo [LICENSE](LICENSE) para más detalles.
